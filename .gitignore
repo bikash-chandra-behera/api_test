@@ -1,0 +1,4 @@
+
+node_modules
+node-ex-sq/package-lock.json
+node-ex-sq/app/config/db.config.js
